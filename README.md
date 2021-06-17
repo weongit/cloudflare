@@ -9,6 +9,7 @@ cloudflare批量添加域名及添加dns解析记录php脚本
 配置方法：
 
 1、首先修改run.php中37行/38行
+
 $header = array(
     "X-Auth-Email:xxx@qq.com",
     "X-Auth-Key:xxx",
